@@ -3,8 +3,7 @@
 The Twitter US Airline Sentiment Dataset aims to analyze public opinion on major U.S. airlines by categorizing tweets into positive, neutral, and negative sentiments.
 
 ## Dataset Used
--href= 'https://github.com/Ramlah0/Brainwave_Matrix_Intern/blob/main/Tweets.csv';Datasetz
-
+https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 ## KPI Questions
 -What number of tweets are positive, neutral, and negative?
 -Which airline has the highest number of negative tweets?
