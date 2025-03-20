@@ -11,3 +11,6 @@ https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 -Which airline is the most frequently mentioned on Twitter?
 -Is there a correlation between the number of tweets and sentiment?
 -Which airline has the lowest number of negative tweets?
+
+
+[Dashboard]([url](https://github.com/Ramlah0/Brainwave_Matrix_Intern/blob/main/Twitter%20dashboard.pbix))
