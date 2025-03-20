@@ -5,8 +5,9 @@ The Twitter US Airline Sentiment Dataset aims to analyze public opinion on major
 ## Dataset Used
 [Dataset](https://github.com/Ramlah0/Brainwave_Matrix_Intern/blob/main/Tweets.csv)
 
-## KPI Questions
+## Questions
 -What number of tweets are positive, neutral, and negative?
+
 -Which airline has the highest number of negative tweets?
 -Which airline has the highest number of positive tweets?
 -Which airline is the most frequently mentioned on Twitter?
@@ -48,7 +49,3 @@ Customers complained the most about poor customer service while customers compla
 -Regular staff trainings should be conducted to improve complaint handling and conflict resolution 
 -The root cause of high number of negative tweets about United Airline should be investigated 
 -There should be increased awareness about Virgin Airline as it has the lowest brand engagement 
-
-
-
-[Dashboard](https://github.com/Ramlah0/Brainwave_Matrix_Intern/blob/main/Twitter%20dashboard.pbix)
