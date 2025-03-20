@@ -1,2 +1,3 @@
-# Brainwave_Matrix_Intern
-This repository hosts two projects I worked on as a Brain Wave intern, leveraging Excel for data cleaning and Power BI for both data cleaning and visualization. The projects focus on transforming raw data into interactive dashboards and actionable insights.
+# Twitter US Airline Sentiment Analysis (Interactive dashboard created using Power BI)
+# Project Analysis
+The Twitter US Airline Sentiment Dataset aims to analyze public opinion on major U.S. airlines by categorizing tweets into positive, neutral, and negative sentiments.
