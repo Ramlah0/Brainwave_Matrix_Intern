@@ -13,4 +13,5 @@ https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 -Which airline has the lowest number of negative tweets?
 
 
-[Dashboard]([url](https://github.com/Ramlah0/Brainwave_Matrix_Intern/blob/main/Twitter%20dashboard.pbix))
+
+[Dashboard](https://github.com/Ramlah0/Brainwave_Matrix_Intern/blob/main/Twitter%20dashboard.pbix))
