@@ -37,36 +37,22 @@ Dashboard interaction [View dashboard](https://github.com/Ramlah0/Brainwave_Matr
 ![Superstore 2](https://github.com/user-attachments/assets/7869719c-8a6c-4536-9552-bb83b79386bd)
 
 ## Insights
-Profit Margin: The overall profit margin is 24.57%.
-
-Among the categories:
-Office Supplies has the highest profit margin at 28.94%.
-Furniture has the lowest profit margin at 17.07%.
-
-Yearly Sales Trend: Sales have shown a progressive increase over the years, with sales being $352,000, $375,000, $496,000, $579,000 in the 2014, 2015, 2016 and 2017 respectively.
-
-Seasonality: There is no clear seasonality in product sales, indicating that demand remains relatively stable throughout the year.
-
-Products Performance: Canon imageCLASS 2200 Advanced copier ranks the most profitable product and also the highest selling product, but this does not mean the highest selling products are always the most profitable products as the 4th best selling product is HPDesignjet T520 Inkjet Large Format Printer - 24" Color but the 4th most profitable product is GBC DocuBind TL300 Electric Binding System.
-
-Customer Segmentation: Customers under the Consumer segment had the highest sales, with a total of $895.79K while customers under the home office segment had the least sales, with a total of $336.46k.
-
-Regional Sales: The West had the highest sales, with a total of $641.75k while the South had the least sales, with a total of $294.02k.
-
-Shipping mode preferences: Orders are shipped mostly using standard class, with a total of 4749 orders while same day shipping is used the least with 444 orders.
-
-Top Buyer: Although the Consumer segment had the highest total sales, the top individual buyer falls under the Corporate segment, with total purchases of $19,062.
-Top buyer vs. High volume customer: Tamara Chand is the top buyer in sales revenue, while Jonathan Doherty has the highest purchase quantity. This shows that the customer who buys the most items isn’t necessarily the one generating the highest sales revenue.
+- Profit Margin: The overall profit margin is 24.57%.
+- Office Supplies has the highest profit margin at 28.94%.
+- Furniture has the lowest profit margin at 17.07%.
+- Yearly Sales Trend: Sales have shown a progressive increase over the years, with sales being $352,000, $375,000, $496,000, $579,000 in the 2014, 2015, 2016 and 2017 respectively.
+- Seasonality: There is no clear seasonality in product sales, indicating that demand remains relatively stable throughout the year.
+- Products Performance: Canon imageCLASS 2200 Advanced copier ranks the most profitable product and also the highest selling product, but this does not mean the highest selling products are always the most profitable products as the 4th best selling product is HPDesignjet T520 Inkjet Large Format Printer - 24" Color but the 4th most profitable product is GBC DocuBind TL300 Electric Binding System.
+- Customer Segmentation: Customers under the Consumer segment had the highest sales, with a total of $895.79K while customers under the home office segment had the least sales, with a total of $336.46k.
+- Regional Sales: The West had the highest sales, with a total of $641.75k while the South had the least sales, with a total of $294.02k.
+- Shipping mode preferences: Orders are shipped mostly using standard class, with a total of 4749 orders while same day shipping is used the least with 444 orders.
+- Top Buyer: Although the Consumer segment had the highest total sales, the top individual buyer falls under the Corporate segment, with total purchases of $19,062.
+- Top buyer vs. High volume customer: Tamara Chand is the top buyer in sales revenue, while Jonathan Doherty has the highest purchase quantity. This shows that the customer who buys the most items isn’t necessarily the one generating the highest sales revenue.
 
 ## Recommendations
-Increase marketing and promotions for Office Supplies to maximize profitability.
-
-Promote high-profit and high-sales products more aggressively.
-
-Optimize pricing strategies for high-selling, low-profit products to improve margins.
-
-Conduct market research in the South to identify barriers to sales.
-
-Develop special promotions and loyalty programs for Home Office customers to boost their engagement.
-
-Plan seasonal promotions or limited-time offers to further accelerate sales growth.
+- Increase marketing and promotions for Office Supplies to maximize profitability.
+- Promote high-profit and high-sales products more aggressively.
+- Optimize pricing strategies for high-selling, low-profit products to improve margins.
+- Conduct market research in the South to identify barriers to sales.
+- Develop special promotions and loyalty programs for Home Office customers to boost their engagement.
+- Plan seasonal promotions or limited-time offers to further accelerate sales growth.
